@@ -1,2 +1,2 @@
-# Amaaraceylon-Website
-Tea selling Website
+AmaaraCeylon.com is an online store dedicated to premium Sri Lankan (Ceylon) tea, offering a curated selection of high-quality tea blends that celebrate the rich heritage and flavors of Sri Lanka’s famous tea culture. The site features a simple shopping experience where visitors can explore and purchase carefully crafted teas—such as floral, bold, and refreshing blends—each designed to deliver authentic taste and wellness benefits. The homepage emphasizes the ritual and health benefits of tea, promotes direct sourcing from Sri Lankan highland gardens, and invites customers to enjoy genuine Ceylon tea with quality assurance and fresh delivery. 
+amaaraceylon.com
